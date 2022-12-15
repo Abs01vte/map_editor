@@ -1,0 +1,14 @@
+{
+  "name": "map_editor",
+  "version": "1.0.0",
+  "description": "makes a window for a game by asking for resolution and player name",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
